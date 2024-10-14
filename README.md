@@ -5,9 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://labidi-mahdi.vercel.app/img/hero/a3.png">
 
 
-<p align="left"> <img src="https://labidi-mahdi.vercel.app/img/hero/a3.png" alt="labidimahdi" /> </p>
 
-<p align="left"> <a href="https://labidi-mahdi.vercel.app/" target="blank"><img src="https://labidi-mahdi.vercel.app/img/hero/a3.png" alt="labidimahdi" /></a> </p>
 
 
 
