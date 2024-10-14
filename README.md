@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **labidimahdi99@gmail.com**
 
-- 📄 Know about my experiences: Download [my Resume] (https://labidi-mahdi.vercel.app/cv.pdf)
+- 📄 Know about my experiences: Download [ my Resume ](https://labidi-mahdi.vercel.app/cv.pdf) 
 
 - ⚡ Fun fact **I love Camping & Hiking**
 
