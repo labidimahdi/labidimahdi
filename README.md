@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm Mahdi Labidi</h1>
 <h3 align="center">A passionate  developer from Tunisia !</h3>
-<img align="right" alt="Coding" width="300" src="https://i.ibb.co/Kz6yx4n/profile-pic-3-modified.png">
+<img align="right" alt="Coding" width="300" src="https://labidi-mahdi.vercel.app/img/hero/a3.png">
 
 
 <p align="left"> <img src="https://labidi-mahdi.vercel.app/img/hero/a3.png" alt="labidimahdi" /> </p>
