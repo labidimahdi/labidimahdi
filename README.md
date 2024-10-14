@@ -4,7 +4,9 @@
 <h3 align="center">A passionate  developer from Tunisia !</h3>
 <img align="right" alt="Coding" width="300" src="https://labidi-mahdi.vercel.app/img/hero/a3.png">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymenghnia&label=Profile%20views&color=0e75b6&style=flat" alt="aymenghnia" /> </p>
 
+<p align="left"> <a href="https://twitter.com/aymenghn" target="blank"><img src="https://img.shields.io/twitter/follow/aymenghn?logo=twitter&style=for-the-badge" alt="aymenghn" /></a> </p>
 
 
 
